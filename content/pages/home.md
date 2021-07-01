@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ""
-title: This is Mongrove
+title: "-"
 featuredImage: https://ucarecdn.com/abf55545-0e69-4e08-8140-218e99dc16af/
 subtitle: ""
 meta:
