@@ -11,6 +11,12 @@
   color: #546036;
 }
 
+.nav-right{
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+
 .Nav--Container {
   display: flex;
   align-items: center;
@@ -51,7 +57,7 @@
 .NavLink:hover,
 .NavLink.active,
 .NavLink:focus {
-  color: var(--primary);
+  color: #546036;
   border-bottom-color: currentColor;
 }
 
